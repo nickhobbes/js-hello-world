@@ -4,7 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("My First LaunchCode Program!")
+console.log(4)
+console.log(4 + 3)
+console.log("Adding Strings" + " Together!")
+console.log("He said, \"Good dog!\"")
+console.log("\"Let's add " + (2 + 3) + " tasks together!\", they said.")
+
+
 
 /*  
 Next, PLAY! 
